@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Dig Team</title>
+ <link href="http://digteam.github.io/atom.xml" rel="self"/>
+ <link href="http://digteam.github.io/"/>
+ <updated>2015-01-14T20:53:57+08:00</updated>
+ <id>http://digteam.github.io/</id>
+ <author>
+   <name>Dig Team</name>
+   <email>digteam@xxx.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>We are Dick Team</title>
+   <link href="http://digteam.github.io/2015/01/14/welcome-to-jekyll.html"/>
+   <updated>2015-01-14T00:00:00+08:00</updated>
+   <id>http://digteam.github.io/2015/01/14/welcome-to-jekyll</id>
+   <content type="html">&lt;p&gt;h1. We are Dick Team&lt;/p&gt;
+
+&lt;p&gt;p(meta). About&lt;/p&gt;
+
+&lt;p&gt;We have huge penis, Oh come on! Suck my balls!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ 
+</feed>
